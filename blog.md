@@ -17,8 +17,6 @@
 - [Twitter Engineering](https://blog.twitter.com/engineering)
 - [Cloudflare learning center](https://www.cloudflare.com/learning)
 - [Fastly Blogs](https://www.fastly.com/blog)
-- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
-- [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Architecture Patterns by Microsoft](https://learn.microsoft.com/en-us/azure/architecture/patterns)
 - [Martin Fowler](https://martinfowler.com)
