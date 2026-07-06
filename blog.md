@@ -13,9 +13,7 @@
 - [GitHub Engineering Blog](https://github.blog/category/engineering)
 - [Intel Software Blog](https://software.intel.com/en-us/blogs)
 - [LinkedIn Engineering](http://engineering.linkedin.com/blog)
-- [Paypal Developer Blog](https://medium.com/paypal-engineering)
 - [Twitter Engineering](https://blog.twitter.com/engineering)
 - [Cloudflare learning center](https://www.cloudflare.com/learning)
-- https://developer.microsoft.com/en-us/java
 - https://javaalmanac.io/
 - https://javaevolved.github.io/
