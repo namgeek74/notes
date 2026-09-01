@@ -1,8 +1,6 @@
 - https://vnhacker.substack.com/
 - https://www.danvega.dev/
 - https://www.joelonsoftware.com/
-- https://notes.huy.rocks/
-- https://www.giaosucan.com/
 - [Google Research Blog](http://googleresearch.blogspot.com)
 - [Uber Engineering Blog](http://eng.uber.com)
 - [GitHub Engineering Blog](https://github.blog/category/engineering)
